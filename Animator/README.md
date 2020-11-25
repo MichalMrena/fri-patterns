@@ -1,2 +1,2 @@
 ## Class diagram
-![Uml](/ClassDiagram.png)  
+![Uml](./ClassDiagram.png)  
