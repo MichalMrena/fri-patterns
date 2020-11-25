@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternsAnimator", "PatternsAnimator\PatternsAnimator.csproj", "{17A9381F-5B45-4568-B05B-344017350174}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17A9381F-5B45-4568-B05B-344017350174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A9381F-5B45-4568-B05B-344017350174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A9381F-5B45-4568-B05B-344017350174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A9381F-5B45-4568-B05B-344017350174}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE91BD6F-E3C9-4CC3-917C-3913DDE8F337}
+	EndGlobalSection
+EndGlobal
